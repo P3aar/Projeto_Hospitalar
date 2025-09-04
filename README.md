@@ -22,7 +22,7 @@ Este projeto foi desenvolvido para simular um cenário real de análise hospital
 - Indicadores principais em cartões
 
 ## 🖼️ Print do Dashboard
-(<img width="1600" height="855" alt="Projeto hospital" src="https://github.com/user-attachments/assets/f2a4240f-1c7a-48c0-8427-52cc621a7e27" />)
+<img width="1600" height="855" alt="Projeto hospital" src="https://github.com/user-attachments/assets/f2a4240f-1c7a-48c0-8427-52cc621a7e27" />
 
 
 ## 📂 Estrutura do Repositório
