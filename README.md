@@ -25,6 +25,17 @@ Este projeto foi desenvolvido para simular um cenário real de análise hospital
 <img width="1600" height="855" alt="Projeto hospital" src="https://github.com/user-attachments/assets/f2a4240f-1c7a-48c0-8427-52cc621a7e27" />
 
 
+## 💡 Funcionalidades Principais
+Sistema de Agendamento - Agendamento, cancelamento e reagendamento de consultas
+
+Gestão de Pacientes - Cadastro completo com histórico médico
+
+Controle Médico - Especialidades, horários de trabalho e disponibilidade
+
+Dashboard Administrativo - Visualização de métricas e relatórios
+
+Sistema de Autenticação - Login seguro com níveis de acesso
+
 ## 📂 Estrutura do Repositório
 - `data/` → Arquivos CSV exportados do banco.
 - `sql/` → Scripts de criação, inserts e queries.
